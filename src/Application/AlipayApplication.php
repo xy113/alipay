@@ -47,8 +47,8 @@ abstract class AlipayApplication
         $this->gateway .= '?charset=' . $this->charset;
 
         $this->params['app_id'] = $config['app_id'];
-        $this->params['return_url'] = $config['return_url'];
-        $this->params['notify_url'] = $config['notify_url'];
+        $this->params['return_url'] = url($config['return_url']);
+        $this->params['notify_url'] = url($config['notify_url']);
         $this->params['timestamp'] = date('Y-m-d H:i:s');
 
     }

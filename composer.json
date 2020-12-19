@@ -1,9 +1,9 @@
 {
   "name": "xy113/alipay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "alipay",
-    "微信支付"
+    "支付宝支付"
   ],
   "description": "alipay kit",
   "license": "MIT",
@@ -31,5 +31,8 @@
     ]
   },
   "extra": {
+  },
+  "require-dev": {
+    "laravel/framework": "^8.19"
   }
 }
