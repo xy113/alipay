@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51719a94-eb4a-4ac8-942a-ff9dce2e5558" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/AlipayApplication.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/AlipayApplication.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +79,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1lrIiHqdkUZHKCgBSddowyVe1xu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -103,7 +105,8 @@
       <updated>1608348908047</updated>
       <workItem from="1608348910098" duration="47000" />
       <workItem from="1608350122120" duration="70000" />
-      <workItem from="1608350213303" duration="137000" />
+      <workItem from="1608350213303" duration="195000" />
+      <workItem from="1608350425926" duration="31000" />
     </task>
     <servers />
   </component>
