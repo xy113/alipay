@@ -1,6 +1,6 @@
 {
   "name": "xy113/alipay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "alipay",
     "支付宝支付"
@@ -20,8 +20,7 @@
     "ext-openssl": "*",
     "ext-mbstring": "*",
     "ext-bcmath": "*",
-    "ext-json": "*",
-    "guzzlehttp/guzzle": "^6.5"
+    "ext-json": "*"
   },
   "autoload": {
     "psr-4": {
@@ -33,6 +32,7 @@
   "extra": {
   },
   "require-dev": {
-    "laravel/framework": "^8.19"
+    "guzzlehttp/guzzle": "^6.5||^7.0",
+    "laravel/framework": "^6.0"
   }
 }

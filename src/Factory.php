@@ -16,12 +16,12 @@ namespace Alipay;
 /**
  * Class Factory
  * @package Alipay
- * @method static \Alipay\Application\PagePayApplication pagePay($cinfig = []) 网页支付
- * @method static \Alipay\Application\AppPayApplication appPay($cinfig = []) app支付
- * @method static \Alipay\Application\QueryApplication query($cinfig = []) 订单查询
- * @method static \Alipay\Application\CloseApplication close($cinfig = []) 关闭订单
- * @method static \Alipay\Application\RefundApplication refund($cinfig = []) 退款
- * @method static \Alipay\Application\RefundQueryApplication refundQuery($cinfig = []) 退款查询
+ * @method static \Alipay\Application\PagePayApplication pagePay($config = []) 网页支付
+ * @method static \Alipay\Application\AppPayApplication appPay($config = []) app支付
+ * @method static \Alipay\Application\QueryApplication query($config = []) 订单查询
+ * @method static \Alipay\Application\CloseApplication close($config = []) 关闭订单
+ * @method static \Alipay\Application\RefundApplication refund($config = []) 退款
+ * @method static \Alipay\Application\RefundQueryApplication refundQuery($config = []) 退款查询
  */
 class Factory
 {
